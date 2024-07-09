@@ -1,4 +1,4 @@
-# <a href="https://a07k.github.io/Project-Weather_App/">Keeper Note App</a>
+# <a href="https://a07k.github.io/Project-Keeper_Note/">Keeper Note App</a>
 
    <img src="keeper.png" alt="Game">
 
